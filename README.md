@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jenish+J+%F0%9F%91%8B;Full+Stack+%26+AI+Engineer;Building+systems+that+actually+ship." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jenish+J;Full+Stack+%26+AI+Engineer;Building+systems+that+actually+ship." alt="Typing SVG" />
 
 <br/>
 
@@ -25,16 +25,16 @@ Currently shipping **HireMind AI** at Zuntra Digital: an end-to-end AI recruitme
 
 I gravitate toward problems with no clean off-the-shelf answer — the kind where you have to design the environment before you can even start solving.
 
-- 🔭 Working on **LLM agent evaluation frameworks** and **RL environments**
-- 🌱 Deepening expertise in **multi-agent systems** and **production ML infra**
-- 🤝 Open source contributor — see pinned repos below
-- ⚡ Fun fact: I can explain Reinforcement Learning using a supply chain crisis
+- Working on **LLM agent evaluation frameworks** and **RL environments**
+- Deepening expertise in **multi-agent systems** and **production ML infra**
+- Open source contributor — see pinned repos below
+- Fun fact: I can explain Reinforcement Learning using a supply chain crisis
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
@@ -89,7 +89,7 @@ I gravitate toward problems with no clean off-the-shelf answer — the kind wher
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [OncoEnv](https://github.com/JEN-chad/OncoEnv) — Bioinformatics RL Environment
 
@@ -129,7 +129,7 @@ Microservices-based game where players attempt prompt injection attacks against 
 
 ---
 
-## 💼 Experience
+## Experience
 
 **AI Engineer Intern** · [Zuntra Digital](https://zuntradigital.com) *(Sep 2025 – Present)*
 
@@ -140,7 +140,7 @@ Building HireMind AI — an end-to-end AI recruitment platform:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -152,7 +152,7 @@ Building HireMind AI — an end-to-end AI recruitment platform:
 
 ---
 
-## 🧩 LeetCode
+## LeetCode
 
 <div align="center">
 
@@ -162,7 +162,7 @@ Building HireMind AI — an end-to-end AI recruitment platform:
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
