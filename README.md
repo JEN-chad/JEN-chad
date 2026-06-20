@@ -159,7 +159,7 @@ Building HireMind AI — an end-to-end AI recruitment platform:
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_HANDLE?ext=contest&theme=dark)](https://leetcode.com/YOUR_LEETCODE_HANDLE)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Jenish_coder?ext=contest&theme=dark)](https://leetcode.com/YOUR_LEETCODE_HANDLE)
 
 </div>
 
