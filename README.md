@@ -9,7 +9,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jenishj-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_SITE)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenishj436@gmail.com)
 
 </div>
@@ -60,7 +59,7 @@ I gravitate toward problems with no clean off-the-shelf answer — the kind wher
 
 ### AI / ML
 <p>
-<img height="45" src="https://img.shields.io/badge/LLM_APIs_(Gemini,_OpenAI,_Llama)-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img height="45" src="https://img.shields.io/badge/Gemini_|_OpenAI_|_Llama-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img height="45" src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img height="45" src="https://img.shields.io/badge/Reinforcement_Learning-00897B?style=for-the-badge&logo=scipy&logoColor=white"/>
 <img height="45" src="https://img.shields.io/badge/Stable--Baselines3-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
@@ -92,7 +91,7 @@ I gravitate toward problems with no clean off-the-shelf answer — the kind wher
 
 ## 🚀 Featured Projects
 
-### [OncoEnv](https://github.com/YOUR_HANDLE/OncoEnv) — Bioinformatics RL Environment
+### [OncoEnv](https://github.com/JEN-chad/OncoEnv) — Bioinformatics RL Environment
 
 A production-grade RL environment for autonomous LLM agent evaluation across single-cell RNA analysis workflows — built from scratch in NumPy/SciPy to eliminate heavy library dependencies.
 
@@ -105,7 +104,7 @@ A production-grade RL environment for autonomous LLM agent evaluation across sin
 
 ---
 
-### [GlobalProcurementEnv](https://github.com/YOUR_HANDLE/GlobalProcurementEnv) — Supply Chain RL Agent
+### [GlobalProcurementEnv](https://github.com/JEN-chad/GlobalProcurementEnv) — Supply Chain RL Agent
 
 OpenEnv Hackathon submission: a multi-country supply-chain RL environment where an AI agent navigates real trade policies and live disruptions.
 
@@ -118,7 +117,7 @@ OpenEnv Hackathon submission: a multi-country supply-chain RL environment where 
 
 ---
 
-### [CrackTheVault](https://github.com/YOUR_HANDLE/CrackTheVault) — LLM Security Game
+### [CrackTheVault](https://github.com/JEN-chad/CrackTheVault) — LLM Security Game
 
 Microservices-based game where players attempt prompt injection attacks against a defended LLM system — built for a college symposium.
 
@@ -145,8 +144,7 @@ Building HireMind AI — an end-to-end AI recruitment platform:
 
 <div align="center">
 
-
-![Jenish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JEN-chad)]
+![Jenish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JEN-chad&theme=dark&show_icons=true&hide=issues,contribs&count_private=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JEN-chad&layout=compact&theme=dark&hide_border=true)
 
@@ -158,7 +156,7 @@ Building HireMind AI — an end-to-end AI recruitment platform:
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Jenish_coder?ext=contest&theme=dark)](https://leetcode.com/YOUR_LEETCODE_HANDLE)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Jenish_coder?ext=contest&theme=dark)](https://leetcode.com/Jenish_coder)
 
 </div>
 
@@ -178,6 +176,6 @@ Building HireMind AI — an end-to-end AI recruitment platform:
 
 **Open to SWE · AI/ML · Founding Engineer roles — full-time or internship**
 
-[jenishj436@email.com](mailto:jenishj436@gmail.com) · [linkedin.com/in/jenishj-dev](https://linkedin.com/in/jenishj-dev)
+[jenishj436@gmail.com](mailto:jenishj436@gmail.com) · [linkedin.com/in/jenishj-dev](https://linkedin.com/in/jenishj-dev)
 
 </div>
