@@ -147,7 +147,7 @@ Building HireMind AI — an end-to-end AI recruitment platform:
 <div align="center">
 
 
-![Jenish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JEN-chad)](https://github.com/anuraghazra/github-readme-stats)
+![Jenish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JEN-chad)]
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JEN-chad&layout=compact&theme=dark&hide_border=true)
 
