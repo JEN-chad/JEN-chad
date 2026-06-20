@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Jenish
 
-<!--
-**JEN-chad/JEN-chad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & Data Science Student
+💻 Full Stack Developer
+🤖 AI Enthusiast
+📍 Chennai, India
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- AI/ML: Python, TensorFlow, LangChain, Gemini
+
+## 📌 Projects
+
+### HireMindAI
+AI-powered interview platform with:
+- Voice Interviews
+- Resume ATS Scoring
+- AI Feedback
+- Slot Scheduling
+
+### SemSmart
+AI-powered PDF note-taking platform using RAG.
+
+## 📫 Connect With Me
+
+- Email: jenishj436@gmail.com
+- GitHub: https://github.com/JEN-chad
