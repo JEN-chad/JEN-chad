@@ -86,9 +86,7 @@ I gravitate toward problems with no clean off-the-shelf answer — the kind wher
 <p>
 <img height="45" width="45" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
 <img height="45" width="45" src="https://img.icons8.com/color/50/git.png" title="Git"/>
-<img height="45" width="45" src="https://img.icons8.com/color/48/figma--v1.png" title="Figma"/>
 <img height="45" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img height="45" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
