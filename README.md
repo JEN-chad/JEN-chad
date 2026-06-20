@@ -169,7 +169,7 @@ Building HireMind AI — an end-to-end AI recruitment platform:
 
 <div align="center">
 
-[![Jenish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_HANDLE&bg_color=000000&color=ffffff&line=6E40C9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jenish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JEN-chad&bg_color=000000&color=ffffff&line=6E40C9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
