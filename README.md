@@ -178,6 +178,6 @@ Building HireMind AI — an end-to-end AI recruitment platform:
 
 **Open to SWE · AI/ML · Founding Engineer roles — full-time or internship**
 
-[jenish@email.com](mailto:YOUR_EMAIL) · [linkedin.com/in/YOUR_HANDLE](https://linkedin.com/in/YOUR_HANDLE)
+[jenish@email.com](mailto:jenishj436@gmail.com) · [linkedin.com/in/YOUR_HANDLE](https://linkedin.com/in/jenishj-dev)
 
 </div>
