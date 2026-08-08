@@ -38,7 +38,7 @@
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e" width="160" alt="Cute developer girl" />
+<img src="https://raw.githubusercontent.com/JEN-chad/JEN-chad/main/art/pose.png" width="180" alt="Jenish J Pose" />
 
 </td>
 
@@ -74,11 +74,7 @@
 <h2 align="center"> 🐍 Contribution Graph </h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JEN-chad/JEN-chad/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JEN-chad/JEN-chad/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/JEN-chad/JEN-chad/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
-  </picture>
+  <img src="https://raw.githubusercontent.com/JEN-chad/JEN-chad/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 <!--
